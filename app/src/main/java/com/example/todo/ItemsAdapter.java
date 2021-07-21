@@ -25,7 +25,7 @@ public class ItemsAdapter extends RecyclerView.Adapter<ItemsAdapter.ViewHolder> 
     @NonNull
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        // Use layout inflator to inflate a view, wrap it inside a View Holder and return it.
+        // Use layout inflator to inflate a view, then wrap it inside a View Holder and return it.
         View todoView = LayoutInflater.from(parent.getContext()).inflate(android.R.layout.simple_list_item_1, parent, false);
         return new ViewHolder(todoView);
 //        return null;

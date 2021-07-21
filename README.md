@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I was having issues implementing the text box. It will not let me type into the box.
+I was having issues implementing the text box. It was not letting me type into the box. I realized that my recyclerview was slightly on top of the text view. Once I changed the size so it was not overlapping in the design, it allowed to me type into the textbox. 
 
 ## License
 
