@@ -6,7 +6,7 @@ Submitted by: **Andrew Alagna**
 
 Time spent: **4.5** hours spent in total
 
-![ToDo](https://user-images.githubusercontent.com/40577932/129480829-8304371a-90cd-4541-ad89-2063415f11e4.gif)
+![todo](https://user-images.githubusercontent.com/40577932/129983067-1ad395d7-a182-420a-82ea-b25235a970f6.gif)
 
 
 ## User Stories
