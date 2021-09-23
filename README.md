@@ -4,9 +4,8 @@
 
 Submitted by: **Andrew Alagna**
 
-Time spent: **4.5** hours spent in total
-
-![todo](https://user-images.githubusercontent.com/40577932/129983067-1ad395d7-a182-420a-82ea-b25235a970f6.gif)
+Time spent: **4** hours spent in total
+![todoPres](https://user-images.githubusercontent.com/40577932/134518629-594fc4b3-f2f9-4cde-8666-bb3fc1cda68e.gif)
 
 
 ## User Stories
